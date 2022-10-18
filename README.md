@@ -6,7 +6,7 @@
 The Backend is built on top of NodeJS as a runtime environment 
 and MongoDB is used as a database.
 There are 2 types of roles in the application- user and Admin.
-The user and admin can SignUP/Login separately using credentialsand authenticating system
+The user and admin can SignUP/Login separately using credentials and authenticating system
 and perform the operation.
 The user can book a service whereas admin can add and manage basic services from the
 backend.
